@@ -1,3 +1,4 @@
+// good. (even though i hate switch statements)
 public class RollLoadedDie {
     public static void main(String[] args) {
         double rand = Math.random() * 8;
